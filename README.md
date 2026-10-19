@@ -25,7 +25,7 @@
           -
          <td>
              Sistemas Oper. <br>
-              7:00 às 7:750
+              7:00 às 7:50
         </td> 
     </tr>
     <tr>
