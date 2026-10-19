@@ -101,5 +101,7 @@
           10:40 às 11:30
         </td>  
     </tr> 
-     
-<table>
+<table>     
+<hr>
+<h4> Link: Sala de reunião </h4>  
+https://meet.jit.si/Inform%C3%A1tica
