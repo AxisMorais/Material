@@ -71,7 +71,7 @@
           -
         </td>  
         <td>
-          -
+         -
         </td>  
          <td>
              P.O.O <Br> 9:50 às 10:40
@@ -88,7 +88,8 @@
          -
         </td>  
         <td>
-          -
+           Arquitetura e Manutenção <br>
+            10:40 às 11:30 
         </td>  
          <td>
           P.O.O <Br> 10:40 às 11:30
