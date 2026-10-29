@@ -105,4 +105,4 @@
 <table>     
 <hr>
 <h4> Link: Sala de reunião </h4>  
-https://meet.jit.si/Inform%C3%A1tica
+https://meet.jit.si/TesteTesteInfo
